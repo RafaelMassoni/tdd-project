@@ -1,0 +1,1 @@
+Certifique-se de sempre escrever testes antes do código, dessa forma, ajuste seu código até que ele passe no teste, garantindo um código de qualidade.
