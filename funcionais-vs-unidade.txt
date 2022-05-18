@@ -1,0 +1,2 @@
+Testes unitários possuem o objetivo de testar partes e unidades individuais do software, enquanto que testes funcionais realizam os testes em um escopo maior de uma funcionalidade, sem necessariamente ter conhecimento dos funcionamentos internos das classes, enquanto que no teste unitário esse conhecimento é fundamental.
+Testes unitários ajudam a garantir o comportamento esperado de determinada classe ou função, por exemplo, enquanto que testes funcionais ajudam a garantir o comportamento esperado de todo o sistema.
